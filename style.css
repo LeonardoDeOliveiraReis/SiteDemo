@@ -1,0 +1,47 @@
+
+
+body {
+    text-align: center;
+    font-family:Oxygen,sans-serif;
+    
+}
+p {
+    text-align: justify;
+    text-indent: 15pt;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    max-width: 725px;
+    
+  }
+  
+h2 {
+    text-align: start;
+}
+.video {
+    text-align: start;
+}
+.sidebar {
+    
+    width: 60px;
+    height: 100%;
+    background: #fcfcfc;
+    padding: 20px 0;
+    position: fixed;
+   
+}
+
+.sidebar a {
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+}
+.content {
+    margin-left: 200px;
+    padding: 20px;
+  }
+#b1 {
+    color: gray;
+}
+a {
+    color: black;
+}
